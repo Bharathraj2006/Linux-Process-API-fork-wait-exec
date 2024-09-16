@@ -70,10 +70,10 @@ int main()
 }
 ```
 
-## OUTPUT
+### OUTPUT
 ![output3](<output/Screenshot from 2024-09-16 19-18-33.png>)
 
-## C Program to execute Linux system commands using Linux API system calls exec() family
+### C Program to execute Linux system commands using Linux API system calls exec() family
 
 ```
 #include <stdio.h>
@@ -103,7 +103,7 @@ int main()
 }
 ```
 
-## OUTPUT
+### OUTPUT
 
 ![output](<output/Screenshot from 2024-09-16 19-33-35.png>)
 
